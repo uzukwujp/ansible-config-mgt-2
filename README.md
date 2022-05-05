@@ -1,2 +1,2 @@
 # ansible-config-mgt-2
-Project 12 on darey.io project based devOps learning platform
+Project 12 of www.darey.io project based devOps learning platform
