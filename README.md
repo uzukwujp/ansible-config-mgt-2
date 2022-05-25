@@ -13,6 +13,8 @@ You can also make use of publicly available roles in galaxy as well
 
 
 To download a publicly available role run the command below:
+
+
  `ansible-galaxy <name of the role>`
  
  
